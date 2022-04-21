@@ -12,38 +12,37 @@
     </a>
   </p>
   
-  <p align="center">A curated list of awesome <a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a> resources, libraries, tools and more.</p>
-  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
+  <p align="center">一个关于<a href="https://en.wikipedia.org/wiki/Solidity">Solidity</a> 资源、库、工具等的精选集合</p>
   
 </div>
 
 ### Contents
 
-- [Resources](#resources)
-  - [Official](#official)
-  - [Tutorials](#tutorials)
-  - [Articles](#articles)
-  - [Security](#security)
-    - [Audits](#audits)
-  - [Examples](#examples)
-    - [Educational](#educational)
-    - [Deployed on Ethereum Mainnet](#deployed-on-ethereum-mainnet)
-  - [Templates](#templates)
-  - [Books](#books)
-  - [Practice](#practice)
-  - [Jobs](#jobs)
-- [Libraries](#libraries)
-- [Tools](#tools)
-  - [General](#general)
-  - [Utility](#utility)
-  - [Audit](#audit)
-  - [DevOps](#devops)
-- [Languages](#languages)
+- [资源](#资源)
+  - [官方资料](#官方资料)
+  - [教程](#教程)
+  - [文章](#文章)
+  - [安全](#安全)
+    - [审计](#审计)
+  - [示例](#示例)
+    - [教学性质](#教学性质)
+    - [部署在以太坊主网](#部署在以太坊主网)
+  - [模板](#模板)
+  - [图书](#图书)
+  - [练习](#练习)
+  - [工作机会](#工作机会)
+- [库](#库)
+- [工具](#工具)
+  - [普通工具](#普通工具)
+  - [效率工具](#效率工具)
+  - [审计工具](#审计工具)
+  - [DevOps工具](#devops工具)
+- [语言](#语言)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
   - [Rust](#rust)
   - [OCaml](#ocaml)
-- [Editor Plugins](#editor-plugins)
+- [编辑器插件](#编辑器插件)
   - [Atom](#atom)
   - [Eclipse](#eclipse)
   - [Emacs](#emacs)
@@ -53,23 +52,23 @@
   - [Visual Studio Code](#visual-studio-code)
 - [License](#license)
 
-## Resources
+## 资源
 
-#### Official
+#### 官方资料
 
-- [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
-- [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheatsheet from the official docs.
-- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
-- [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
-- [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
-- [ethereum/solidity](https://github.com/ethereum/solidity/) - Source code.
-- [ethereum/solc-bin](https://github.com/ethereum/solc-bin) - Current and historical builds of the compiler.
-- [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
+- [Docs](https://docs.soliditylang.org/en/latest/) - 官方文档。
+- [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - 官方文档的备忘单。
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) -以太坊wiki。
+- [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - 以太坊Stackexchange主页。
+- [Gitter](https://gitter.im/ethereum/solidity/) - Solidity的Gitter频道。
+- [ethereum/solidity](https://github.com/ethereum/solidity/) - Solidity的源码。
+- [ethereum/solc-bin](https://github.com/ethereum/solc-bin) - 编译器的当前和历史版本。
+- [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - 示例代码的集合。
 
-#### Tutorials
+#### 教程
 
-- [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
-- [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - Comprehensive series of tutorials covering contract-oriented programming and advanced language concepts.
+- [buildspace.so](https://buildspace.so/) - 初学Web3开发的上手课程，特别适合初学者。 它是完全免费的，完成后您将获得 NFT。
+- [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - 涵盖面向智能合约的编程和高级语言概念的综合系列教程。
 - [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
 - [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
 - [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
