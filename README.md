@@ -149,33 +149,33 @@
 
 #### 模板
 
-- [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Github template providing an Ethereum dev stack focused on fast product iterations.
-- [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
-- [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - Forkable template to get you started with Dapp Tools.
-- [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - Github template with Docker containers for building dApps with Truffle and Node.js as backend server.
-- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - Github template for writing contracts (uses: Hardhat, TypeChain, Ethers, Waffle, Solhint, Solcover, Prettier Plugin Solidity).
-- [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for developing, testing, and deploying smart contracts with a full Typescript environment.
-- [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - A full-stack dApp starter built with Next.js (React).
-- [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - Template to develop smart contracts.
-- [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - Hardhat template with preconfigured Github Actions and Coveralls support.
+- [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - 专注于快速产品迭代的以太坊开发堆栈。
+- [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - 可快速构建 dApp，而无需运行您自己的后端React 组件和钩子。
+- [gakonst/dapptools-template](https://github.com/gakonst/dapptools-template) - 可fork的模板，让您开始使用 Dapp 工具。
+- [NodeFactoryIo/solidity-node-docker-starter](https://github.com/NodeFactoryIo/solidity-node-docker-starter) - 带有 Docker 容器的 Github 模板，用于使用 Truffle 和 Node.js 作为后端服务器构建 dApp。
+- [paulrberg/solidity-template](https://github.com/paulrberg/solidity-template) - 用于编写智能合约的 Github 模板（使用：Hardhat、TypeChain、Ethers、Waffle、Solhint、Solcover、Prettier Plugin Solidity）。
+- [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - 用于开发、测试和部署具有完整 Typescript 环境的智能合约的入门工具包。
+- [tomhirst/solidity-nextjs-starter](https://github.com/tomhirst/solidity-nextjs-starter) - 使用 Next.js (React) 构建的全栈 dApp 启动器。
+- [wighawag/template-ethereum-contracts](https://github.com/wighawag/template-ethereum-contracts) - 开发智能合约的模板。
+- [ZumZoom/solidity-template](https://github.com/ZumZoom/solidity-template) - 具有预配置 Github 操作和工单支持的Hardhat模板。
 
-#### Books
+#### 图书
 
-- [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - Book that teaches the essential principles of blockchain and how to create your own decentralized apps.
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum is a book for developers, offering a guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
+- [Blockchain in Action](https://www.manning.com/books/blockchain-in-action) - 本书讲解区块链的基本原理以及如何创建自己的去中心化应用程序。
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - 精通以太坊是一本面向开发人员的书，提供了以太坊、以太坊经典、RootStock (RSK) 和其他兼容的基于 EVM 的开放区块链的操作和使用指南。
 
-#### Practice
+#### 练习
 
-- [ChainShot](https://www.chainshot.com/) - Hands-on learning with challenging coding tutorials.
-- [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) - A set of challenges to hack implementations of DeFi in Ethereum.
-- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Ethernaut is a Web3/Solidity based wargame to be played in the Ethereum Virtual Machine. Each level is a smart contract that needs to be 'hacked'.
+- [ChainShot](https://www.chainshot.com/) - 通过具有挑战性的编码教程进行实践学习。
+- [OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi) - 在以太坊中hack DeFi 设施的一系列挑战。
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Ethernaut 是一款基于 Web3/Solidity 的战争游戏，可在以太坊虚拟机中进行。 每个级别都是需要“hacked”的智能合约。
 
-#### Jobs
+#### 工作
 
-- [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - Job board for blockchain and cryptocurrency jobs.
-- [cryptojobslist.com](https://cryptojobslist.com/) - Job board for blockchain and cryptocurrency jobs.
-- [web3.career](https://web3.career) - Job board for web3 jobs.
-- [crypto.jobs](https://crypto.jobs) - CryptoJobs is the #1 website for blockchain jobs.
+- [cryptocurrencyjobs.co](https://cryptocurrencyjobs.co/) - 区块链和加密货币工作求职平台。
+- [cryptojobslist.com](https://cryptojobslist.com/) - 区块链和加密货币工作求职平台。
+- [web3.career](https://web3.career) - web3 工作的求职平台
+- [crypto.jobs](https://crypto.jobs) - CryptoJobs 是排名第一的区块链工作求职网站。
 
 ## Libraries
 
