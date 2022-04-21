@@ -69,40 +69,40 @@
 
 - [buildspace.so](https://buildspace.so/) - 初学Web3开发的上手课程，特别适合初学者。 它是完全免费的，完成后您将获得 NFT。
 - [androlo/solidity-workshop](https://github.com/androlo/solidity-workshop) - 涵盖面向智能合约的编程和高级语言概念的综合系列教程。
-- [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
-- [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
-- [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) - Complete course that takes you through the process of creating a decentralized Twitter clone using best practices.
-- [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot) - Tutorial for building DeFi arbitrage bots.
-- [karmacoma-eth/sending-ether-cheat-sheet](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0) - Tips and best practices for sending Ether.
-- [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - Learn Solidity in 15 mins (for experienced devs).
-- [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices.
-- [Questbook](https://www.questbook.app/) - Questbook is building a University DAO where learning is always free. Starting with crypto-dev courses by leading devs.
-- [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - Review syntax of both languages side-by-side.
-- [topmonks/solidity_quick_ref](https://topmonks.github.io/solidity_quick_ref/) - Syntax overview.
-- [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - Complete guide on getting started, creating your own crypto, ICOs and deployment.
-- [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) - A curated list of free, community tutorials that are based around specific projects, tasks or challenges.
+- [CryptoZombies](https://cryptozombies.io) - 交互式代码学习方式，通过构建您自己的加密藏品游戏来教您编写智能合约。
+- [cryptodevhub.io](https://cryptodevhub.io/) - 一个加密技术社区，旨在团结对区块链和加密技术感兴趣的志同道合的人。
+- [Discover Ethereum & Solidity (ludu.co)](https://www.ludu.co/course/ethereum) -引导您完成使用最佳实践创建去中心化 Twitter 的课程。
+- [ExtropyIO/defi-bot](https://github.com/ExtropyIO/defi-bot) - 构建 DeFi 套利机器人的教程。
+- [karmacoma-eth/sending-ether-cheat-sheet](https://gist.github.com/karmacoma-eth/4f206a46dedc6da6808c1ccdef3262d0) - 发送 Ether 的最佳实践。
+- [LearnXInY](https://learnxinyminutes.com/docs/solidity/) - 在 15 分钟内学习 Solidity（适用于有经验的开发人员）。
+- [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - 备忘单和最佳实践。
+- [Questbook](https://www.questbook.app/) - Questbook 正在建立一个免费学习的大学 DAO。 从开发人员的加密开发课程开始。
+- [Solidity and Vyper cheat sheet](https://reference.auditless.com/cheatsheet) - 并排查看Solidity和Vyper两种语言的语法。
+- [topmonks/solidity_quick_ref](https://topmonks.github.io/solidity_quick_ref/) - 语法概述。
+- [willitscale/learning-solidity](https://github.com/willitscale/learning-solidity) - 有关入门、创建自己的加密、ICO 和部署的完整指南。
+- [useweb3.xyz/tutorials](https://www.useweb3.xyz/tutorials) -基于特定项目、任务或挑战的免费社区教程的精选列表。
 
-#### Articles
+#### 文章
 
-- [Best Practices for Smart Contract Development (yos.io, Yos Riady, 2019)](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - Developer handbook for smart contract developers.
-- [Clean Contracts (wslyvh.com, Wesley van Heije, 2020)](https://www.wslyvh.com/clean-contracts/) - Developer guide to writing clean smart contract code.
-- [The Complete Guide to Full Stack Ethereum Development (dev.to, Nader Dabit, 2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - Building Full Stack dApps with React, Ethers.js, Solidity, and Hardhat.
-- [How to create an ERC20 Token and a Solidity Vendor Contract (medium.com, Emanuele Ricci, 2021)](https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905) - Create your own ERC20 Token and a Token Vendor Contract that will handle the sell/buy process.
-- [soliditydeveloper.com/blog](https://soliditydeveloper.com/blog) - Concepts, guides, design patterns and more.
+- [Best Practices for Smart Contract Development (yos.io, Yos Riady, 2019)](https://yos.io/2019/11/10/smart-contract-development-best-practices/) - 智能合约开发工程师的开发手册。
+- [Clean Contracts (wslyvh.com, Wesley van Heije, 2020)](https://www.wslyvh.com/clean-contracts/) - 编写简洁的智能合约代码的开发指南。
+- [The Complete Guide to Full Stack Ethereum Development (dev.to, Nader Dabit, 2021)](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13) - 使用 React、Ethers.js、Solidity 和 Hardhat 构建全栈 dApp。
+- [How to create an ERC20 Token and a Solidity Vendor Contract (medium.com, Emanuele Ricci, 2021)](https://stermi.medium.com/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-8882808dd905) - 创建您自己的 ERC20 代币和合约来处理买卖过程。
+- [soliditydeveloper.com/blog](https://soliditydeveloper.com/blog) - Solidity概念、指南、设计模式等。
 
-#### Security
+#### 安全
 
-- [Capture the Ether](https://capturetheether.com/) - Game in which you hack Ethereum smart contracts to learn about security.
-- [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - Curated list of awesome Ethereum security references, guidance, tools, and more.
-- [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) - Guidelines and training material to write secure smart contracts.
-- [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of common vulnerabilities, including code from real smart contracts.
-- [Crypto-Virus/cream-finance-exploit-example](https://github.com/Crypto-Virus/cream-finance-exploit-example) - Example implementation of the Cream Finance flashloan exploit.
-- [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - Minimal example implementations of ERC20 tokens with surprising/unexpected behaviour.
-- [Ethereum Smart Contract Security Best Practices (Consensys)](https://consensys.github.io/smart-contract-best-practices/) - General security philosophy, known attacks, and sample code.
-- [OriginProtocol/security](https://github.com/OriginProtocol/security) - Materials related to security: docs, checklists, processes.
-- [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) - Opinionated security and code quality checklist for smart contracts.
-- [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard.
-- [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns.
+- [Capture the Ether](https://capturetheether.com/) - 破解以太坊智能合约以了解安全重要性的游戏。
+- [crytic/awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - 一个很棒的以太坊安全参考、指南、工具等的精选列表
+- [crytic/building-secure-contracts](https://github.com/crytic/building-secure-contracts) - 编写安全智能合约的指南和培训材料。
+- [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - 常见漏洞示例，包括来自真实智能合约的代码。
+- [Crypto-Virus/cream-finance-exploit-example](https://github.com/Crypto-Virus/cream-finance-exploit-example) -  Cream Finance 闪电贷的示例实现。
+- [d-xo/weird-erc20](https://github.com/d-xo/weird-erc20) - 具有令人惊讶/意外行为的 ERC20 代币的最小示例实现。
+- [Ethereum Smart Contract Security Best Practices (Consensys)](https://consensys.github.io/smart-contract-best-practices/) - 通用安全理念、已经发生的攻击事件和示例代码。
+- [OriginProtocol/security](https://github.com/OriginProtocol/security) - 与安全相关的材料：文档、清单、流程。
+- [Rari-Capital/security-checklist](https://github.com/Rari-Capital/security-checklist) - 智能合约的安全性和代码质量检查表。
+- [securing/SCSVS](https://github.com/securing/SCSVS) - 智能合约安全验证标准。
+- [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - 已知攻击向量和常见反面模式的完整列表。
 
 ##### Audits
 
