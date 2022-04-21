@@ -104,50 +104,50 @@
 - [securing/SCSVS](https://github.com/securing/SCSVS) - 智能合约安全验证标准。
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - 已知攻击向量和常见反面模式的完整列表。
 
-##### Audits
+##### 审计
 
-- [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
-- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
-- [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
-- [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
+- [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Trail of Bits 团队的公共安全审计。
+- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - OpenZeppelin 安全团队的公共安全审计。
+- [Consensys Diligence](https://consensys.net/diligence/audits/) - Consensys Diligence 团队进行的公共安全审计
+- [MixBytes](https://github.com/mixbytes/audits_public) - MixBytes 团队的公共安全审计。
 
-#### Examples
+#### 示例
 
-##### Educational
+##### 教学性质
 
-- [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - Comprehensive collection of contract examples.
-- [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - Example arbitrage bot using Flashbots.
-- [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - A collection of patterns and best practices for smart contract development.
-- [libevm/subway](https://github.com/libevm/subway) - A practical example on how to perform sandwich attacks on Ethereum.
-- [lsaether/bonding-curves](https://github.com/lsaether/bonding-curves) - Smart contracts for bonding curves (aka curve bonded tokens).
-- [kauri.io](https://kauri.io/) - Archive of kauri community's content created with the goal to foster the spread of Ethereum development knowledge far and wide.
-- [miguelmota/solidity-idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - Common gotchas, pitfalls, limitations, and idiosyncrasies.
-- [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps.
-- [pedrobergamini/flashloaner-contract](https://github.com/pedrobergamini/flashloaner-contract) - Smart contracts that operate arbitrages between Sushiswap and Uniswap.
-- [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate language features.
-- [Solidity By Example](https://solidity-by-example.org/) - An introduction to the language with simple examples.
-- [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - A curated overview of the best and latest resources on Ethereum, Solidity and Web3 development.
+- [cyrusadkisson/solidity-baby-steps](https://github.com/cyrusadkisson/solidity-baby-steps) - 全面的智能合约示例集合。
+- [flashbots/simple-arbitrage](https://github.com/flashbots/simple-arbitrage) - 使用 Flashbots 的套利机器人示例。
+- [fravoll/solidity-patterns](https://github.com/fravoll/solidity-patterns) - 智能合约开发模式和最佳实践的集合。
+- [libevm/subway](https://github.com/libevm/subway) - 关于如何对以太坊执行三明治攻击的一个实际示例。
+- [lsaether/bonding-curves](https://github.com/lsaether/bonding-curves) - 联合曲线的智能合约（又名bonded curve tokens）。.
+- [kauri.io](https://kauri.io/) - kauri社区内容的存档，旨在促进以太坊开发知识的广泛传播。
+- [miguelmota/solidity-idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies) - 常见的陷阱、限制和特点。
+- [m1guelpf/lil-web3](https://github.com/m1guelpf/lil-web3) - 简单、限制性的 web3 协议和应用程序版本。
+- [pedrobergamini/flashloaner-contract](https://github.com/pedrobergamini/flashloaner-contract) - 在 Sushiswap 和 Uniswap 之间进行套利的智能合约。
+- [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - 一组简短但功能齐全的合约，展示了语言特性。
+- [Solidity By Example](https://solidity-by-example.org/) - 用简单的例子介绍Solidity语言。
+- [useWeb3 - Learn web3 development](https://www.useweb3.xyz/) - 关于以太坊、Solidity 和 Web3 开发的最佳和最新资源的精选概述。
 
-##### Deployed on Ethereum Mainnet
+##### 部署在以太坊主网
 
-- [Abracadabra-money/magic-internet-money](https://github.com/Abracadabra-money/magic-internet-money) - Magic Internet Money (MIM) contracts.
-- [andrecronje/rarity](https://github.com/andrecronje/rarity) - D20srd reference implementation.
-- [axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) - Axie Infinity Ronin contracts.
-- [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol contracts.
-- [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - Compound Protocol contracts.
-- [dharma-eng/dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) - Smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs.
-- [ensdomains/ens-contracts](https://github.com/ensdomains/ens-contracts) - Ethereum Name Service (ENS) contracts.
-- [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Graph Protocol Contracts.
-- [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - OlympusDAO contracts.
-- [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - LINK token contracts for the Chainlink Network.
-- [sushiswap/kashi-lending](https://github.com/sushiswap/kashi-lending) - Kashi Lending platform contracts.
-- [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushiswap smart contracts.
-- [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix smart contracts.
-- [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken smart contracts.
-- [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - Core smart contracts of Uniswap v3.
-- [wyvernprotocol/wyvern-v3](https://github.com/wyvernprotocol/wyvern-v3) - Core smart contracts for Wyvern v3, a decentralized digital asset exchange protocol.
+- [Abracadabra-money/magic-internet-money](https://github.com/Abracadabra-money/magic-internet-money) - Magic Internet Money (MIM) 智能合约。
+- [andrecronje/rarity](https://github.com/andrecronje/rarity) - D20srd 参考实现。
+- [axieinfinity/ronin-smart-contracts](https://github.com/axieinfinity/ronin-smart-contracts) - Axie Infinity Ronin合约。
+- [bancorprotocol/contract-solidity](https://github.com/bancorprotocol/contracts-solidity) - Bancor Protocol 智能合约。
+- [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - Compound Protocol 智能合约。
+- [dharma-eng/dharma-smart-wallet](https://github.com/dharma-eng/dharma-smart-wallet) - 智能钱包，用于在保持资金托管的同时赚取稳定币的利息，并由 Dharma Labs 提供额外的安全支持。
+- [ensdomains/ens-contracts](https://github.com/ensdomains/ens-contracts) - 以太坊域名服务 (ENS) 智能合约。
+- [graphprotocol/contracts](https://github.com/graphprotocol/contracts) - Graph Protocol C智能合约。
+- [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - OlympusDAO 智能合约。
+- [smartcontractkit/LinkToken](https://github.com/smartcontractkit/LinkToken) - Chainlink 网络的 LINK 代币合约。
+- [sushiswap/kashi-lending](https://github.com/sushiswap/kashi-lending) - Kashi Lending智能合约。
+- [sushiswap/sushiswap](https://github.com/sushiswap/sushiswap) - Sushiswap 智能合约。
+- [Synthetixio/synthetix](https://github.com/Synthetixio/synthetix) - Synthetix智能合约。
+- [trusttoken/smart-contracts](https://github.com/trusttoken/smart-contracts) - TrustToken智能合约。
+- [Uniswap/uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) - Uniswap v3 的核心智能合约。
+- [wyvernprotocol/wyvern-v3](https://github.com/wyvernprotocol/wyvern-v3) - Wyvern v3 的核心智能合约，一种去中心化的数字资产交换协议。
 
-#### Templates
+#### 模板
 
 - [austintgriffith/scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Github template providing an Ethereum dev stack focused on fast product iterations.
 - [ethereum-boilerplate/ethereum-boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate) - React components and hooks to build dApps fast without running your own backend.
