@@ -179,53 +179,53 @@
 
 ## Libraries
 
-- [0age/AttributeRegistry](https://github.com/0age/AttributeRegistry) ERC-1616 Attribute Registry Standard - interface, tests and implementation.
-- [0age/HomeWork](https://github.com/0age/HomeWork) - An autonomous utility for finding, sharing and reusing home addresses for contracts.
-- [0age/Spawner](https://github.com/0age/Spawner) - Spawn EIP 1167 minimal proxies with an included initialization step during contract creation.
-- [0xcert/ethereum-erc721](https://github.com/0xcert/ethereum-erc721) - Non-fungible token implementation for Ethereum-based blockchains.
-- [alexvansande/ENSTools](https://github.com/alexvansande/ENSTools) - A set of contracts to extend ENS functionality to other smart contracts.
-- [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Basic string utilities for Solidity.
-- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI to create and deploy Truffle projects with no configuration.
-- [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
-- [dapp-scratch](https://github.com/okwme/dapp-scratch) - CLI for generating javascript modules from Contracts for Decentralized Apps.
-- [dapphub/dappsys](https://github.com/dapphub/dappsys) - Contract system framework for flexible multi-contract dapps.
-- [dapphub/dapptools](https://github.com/dapphub/dapptools) - Command-line-friendly tools for blockchain development.
-- [dmihal/hardhat-interface-generator](https://github.com/dmihal/hardhat-interface-generator) - Hardhat plugin to automatically generate interfaces from code.
-- [EthWorks/Waffle](https://github.com/EthWorks/Waffle) - Library for writing and testing smart contracts.
-- [gakonst/foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-- [gelatodigital/auto-top-up](https://github.com/gelatodigital/auto-top-up) - Automatically top up multiple ETH addresses once their ETH balance falls below a certain threshold.
-- [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math) - Smart contract library for advanced fixed-point math.
-- [ItsNickBarry/hardhat-abi-exporter](https://github.com/ItsNickBarry/hardhat-abi-exporter) - Export contract ABIs on compilation via Hardhat.
-- [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - Complete Dapp and Solidity development environment as a docker image you can run from command line.
-- [Keydonix/uniswap-oracle](https://github.com/Keydonix/uniswap-oracle) - General purpose price feed oracle built on Uniswap v2 that uses merkle proofs under the hood.
-- [makerdao/multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
-- [maple-labs/erc-20](https://github.com/maple-labs/erc-20) - Maple implementation of the ERC-20 standard.
-- [mattdf/RingCrypto](https://github.com/mattdf/RingCrypto) - Ring signature related implementations for Ethereum.
-- [mds1/solidity-trigonometry](https://github.com/mds1/solidity-trigonometry) - Library with basic trigonometry functions.
-- [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - Deployed utility libraries to use in your smart contracts.
-- [mzhu25/sol2string](https://github.com/mzhu25/sol2string) - `LibUintToString` library for efficiently converting `uint256` values to strings.
-- [OpenZeppelin](https://openzeppelin.com/) - Framework to build secure smart contracts.
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development.
-- [OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
-- [optionality/clone-factory](https://github.com/optionality/clone-factory) - Simple clone contract factory. Install a master copy of a contract, then easily (cheaply) create clones with separate state.
-- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.
-- [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/indexed-sparse-merkle-tree) - Dapptools-ready and gas-optimized implementation of a sparse merkle tree.
-- [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - Preconfigured skeleton repository for building or starting with development of Smart contracts.
-- [solana-labs/solana-solidity.js](https://github.com/solana-labs/solana-solidity.js) - Compile, deploy, and use contracts on Solana.
-- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
-- [Solidity Standard Library](https://github.com/alianse777/solidity-standard-library) - Standard library (Array, random, math, string).
-- [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first smart contract development library.
-- [studydefi/money-legos](https://github.com/studydefi/money-legos) - NPM package that provides you with the mainnet addresses, ABIs, and Solidity interfaces for popular DeFi protocols.
-- [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
-- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - Adds additional assertions and utilities used in testing smart contracts with truffle.
-- [Rari-Capital/solmate](https://github.com/Rari-Capital/solmate) - Modern, opinionated and gas optimized building blocks for smart contract development.
-- [Uniswap/merkle-distributor](https://github.com/Uniswap/merkle-distributor) - Smart contract that distributes a balance of tokens according to a merkle root.
-- [Uniswap/uniswap-v2-periphery](https://github.com/Uniswap/uniswap-v2-periphery) - Peripheral smart contracts for interacting with Uniswap V2.
-- [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) - Peripheral smart contracts for interacting with Uniswap V3.
-- [wbobeirne/eth-balance-checker](https://github.com/wbobeirne/eth-balance-checker) - Smart contract and library pair that allows you to check for multiple ERC20 and Ether balances across multiple addresses in a single RPC call.
-- [weiroll/weiroll](https://github.com/weiroll/weiroll) - A simple and efficient operation-chaining/scripting language for the EVM.
+- [0age/AttributeRegistry](https://github.com/0age/AttributeRegistry) ERC-1616属性注册标准--接口、测试和实现。
+- [0age/HomeWork](https://github.com/0age/HomeWork) - 一个用于寻找、分享和重用合约的home地址的自主工具。
+- [0age/Spawner](https://github.com/0age/Spawner) - 在合约创建过程中，用一个包含的初始化步骤生成EIP 1167最小代理。
+- [0xcert/ethereum-erc721](https://github.com/0xcert/ethereum-erc721) - 基于Ethereum的区块链的不可伪造的代币实现。
+- [alexvansande/ENSTools](https://github.com/alexvansande/ENSTools) - 一组合约，将ENS的功能扩展到其他智能合约。
+- [Arachnid/solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) - Solidity的基本字符串实用程序。
+- [create-truffle-dapp](https://github.com/clemlak/create-truffle-dapp) - CLI创建和部署Truffle项目，无需配置。
+- [dapp-bin](https://github.com/ethereum/dapp-bin) - 为Solidity、Serpent和LLL中的许多常见数据结构和实用程序提供实现的以太坊 repo。
+- [dapp-scratch](https://github.com/okwme/dapp-scratch) - 用于从去中心化应用的合约中生成javascript模块的CLI。
+- [dapphub/dappsys](https://github.com/dapphub/dappsys) - 用于灵活的多合同Dapp的合同系统框架。
+- [dapphub/dapptools](https://github.com/dapphub/dapptools) - 用于区块链开发的命令行友好型工具。
+- [dmihal/hardhat-interface-generator](https://github.com/dmihal/hardhat-interface-generator) - 可以从代码中自动生成接口的Hardhat插件。
+- [EthWorks/Waffle](https://github.com/EthWorks/Waffle) - 用于编写和测试智能合约的库。
+- [gakonst/foundry](https://github.com/gakonst/foundry) - 用Rust编写的用于Ethereum应用开发的极快、可移植和模块化的工具包。
+- [gelatodigital/auto-top-up](https://github.com/gelatodigital/auto-top-up) - 一旦多个ETH地址的ETH余额低于某个阈值，就自动为其充值。
+- [hifi-finance/prb-math](https://github.com/hifi-finance/prb-math) - 用于高级定点数运算的智能合约库。
+- [ItsNickBarry/hardhat-abi-exporter](https://github.com/ItsNickBarry/hardhat-abi-exporter) -通过Hardhat在编译时输出合约ABI。
+- [instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide) - 作为一个docker镜像的完整Dapp和Solidity开发环境，你可以从命令行运行。
+- [Keydonix/uniswap-oracle](https://github.com/Keydonix/uniswap-oracle) - 建立在Uniswap v2基础上的通用价格预言机，在hood下使用merkle proofs。
+- [makerdao/multicall](https://github.com/makerdao/multicall) - 将多个常量函数的调用结果汇总为一个。
+- [maple-labs/erc-20](https://github.com/maple-labs/erc-20) - 实施ERC-20标准的Maple。
+- [mattdf/RingCrypto](https://github.com/mattdf/RingCrypto) - 以太坊的环形签名相关实现。
+- [mds1/solidity-trigonometry](https://github.com/mds1/solidity-trigonometry) - 具有基本三角函数的Library。
+- [Modular Libraries](https://github.com/modular-network/ethereum-libraries) - 可在你的智能合约中使用的已部署的实用程序库。
+- [mzhu25/sol2string](https://github.com/mzhu25/sol2string) -  “LibUintToString”库用于有效地将 "uint256 "值转换为字符串。
+- [OpenZeppelin](https://openzeppelin.com/) - 构建安全智能合约的框架。
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - 一个用于安全智能合约开发的库。
+- [OpenZeppelin/openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - OpenZeppelin合约的可升级变体，意在用于可升级合约。
+- [optionality/clone-factory](https://github.com/optionality/clone-factory) - 简单的合约克隆factory。安装一个合约的主副本，然后轻松地（廉价地）创建具有独立状态的克隆分支。
+- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat插件可以在多个EVM链上部署你的智能合约，并具有相同的确定性地址。
+- [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/indexed-sparse-merkle-tree) - 稀疏默克尔树的Dapptools和gas优化实现。
+- [Smart Contracts Skeleton](https://github.com/Shimmi/smart-contracts-skeleton) - 预先配置的骨架库，用于建立或开始开发智能合约。
+- [solana-labs/solana-solidity.js](https://github.com/solana-labs/solana-solidity.js) - 在Solana上编译、部署和使用合约。
+- [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - 代码片断和实用程序库的集合。
+- [Solidity Standard Library](https://github.com/alianse777/solidity-standard-library) - 标准库（阵列、随机、数学、字符串）。
+- [solidstate-network/solidstate-solidity](https://github.com/solidstate-network/solidstate-solidity) - 可升级的第一个智能合约开发库。
+- [studydefi/money-legos](https://github.com/studydefi/money-legos) - NPM 包，为您提供流行的 DeFi 协议的主网地址、ABI 和 Solidity 接口。
+- [Truffle](https://github.com/trufflesuite/truffle) - 以太坊的开发环境、测试框架和资源管道。
+- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - 用于truffle测试智能合约，增加了额外实用程序。
+- [Rari-Capital/solmate](https://github.com/Rari-Capital/solmate) - gas优化的流行智能合约开发构件。
+- [Uniswap/merkle-distributor](https://github.com/Uniswap/merkle-distributor) - 根据Merkle Root分配代币余额的智能合约。
+- [Uniswap/uniswap-v2-periphery](https://github.com/Uniswap/uniswap-v2-periphery) - 用于与Uniswap V2互动的外围智能合约。
+- [Uniswap/uniswap-v3-periphery](https://github.com/Uniswap/uniswap-v3-periphery) - 用于与Uniswap V3互动的外围智能合约。
+- [wbobeirne/eth-balance-checker](https://github.com/wbobeirne/eth-balance-checker) - 允许你在一次RPC调用中检查多个地址的ERC20和以太币余额。
+- [weiroll/weiroll](https://github.com/weiroll/weiroll) - 用于EVM的简单而有效的操作链/脚本语言。
 
-## Tools
+## 工具
 
 #### General
 
