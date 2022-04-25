@@ -227,42 +227,41 @@
 
 ## 工具
 
-#### General
+#### 普通工具
 
-- [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet drips ETH, tokens, and NFTs across many testnet networks, at once.
-- [Cryptofex](https://cryptofex.io/download/) - Standalone IDE and compiler.
-- [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View the source of deployed Ethereum contracts in VSCode.
-- [EthFiddle](https://ethfiddle.com/recent_fiddles) - Find, share and embed contracts.
-- [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
-- [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
-- [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
-- [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - Standalone desktop IDE.
+- [Anish-Agnihotri/MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - MultiFaucet将ETH、代币和NFT在许多测试网络上一次性分发。
+- [Cryptofex](https://cryptofex.io/download/) - 独立的IDE和编译器。
+- [dethcrypto/ethereum-code-viewer](https://github.com/dethcrypto/ethereum-code-viewer) - 在VSCode中查看已部署的Ethereum合约的来源。
+- [EthFiddle](https://ethfiddle.com/recent_fiddles) - 查找、分享和嵌入合同。
+- [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - 基于Python的智能合约开发和测试框架，以Ethereum虚拟机为目标。
+- [Hardhat](https://hardhat.org/) - 编译、部署、测试和调试以太坊应用的开发环境。
+- [Remix](https://remix.ethereum.org/) - 在线实时编译器和runtime。
+- [EthereumStudio](https://github.com/ObsidianLabs/EthereumStudio) - 独立的桌面IDE。
 - [raineorshine/solidity-repl](https://github.com/raineorshine/solidity-repl) - REPL CLI.
-- [SIF](https://github.com/chao-peng/SIF) - Code generation from the AST, analyse and instrument source code.
-- [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - A home for ethereum smart contracts, all verified smart contracts from Etherscan.
-- [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - Unified Modeling Language (UML) class diagram generator for smart contracts.
-- [solgraph](https://github.com/raineorshine/solgraph) - Visualize control flows for smart contract security analysis.
-- [sol-merger](https://github.com/RyuuGan/sol-merger) - Merges all imports into single file for contracts.
-- [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Documentation generator for Solidity projects.
-- [Tenderly](https://tenderly.co) - Easily monitor your smart contracts with error tracking, alerting, performance metrics, and detailed contract analytics.
-- [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - An interactive Solidity shell with lightweight session recording.
-- [Laika](https://getlaika.app) - Make requests to smart contracts without the hassle of writing a single line of code.
+- [SIF](https://github.com/chao-peng/SIF) - 从AST生成代码，分析和检测源代码。
+- [Smart Contract Sanctuary](https://github.com/tintinweb/smart-contract-sanctuary) - 以太坊智能合约之家，所有经过验证的智能合约都来自Etherscan。
+- [naddison36/sol2uml](https://github.com/naddison36/sol2uml) - 统一建模语言（UML）的智能合约类图生成器。
+- [solgraph](https://github.com/raineorshine/solgraph) - 为智能合约安全分析提供可视化的控制流。
+- [sol-merger](https://github.com/RyuuGan/sol-merger) - 为智能合约将所有的imports合并为一个文件
+- [solidity-docgen](https://github.com/OpenZeppelin/solidity-docgen) - Solidity项目的文档生成器。
+- [Tenderly](https://tenderly.co) - 通过错误跟踪、警报、性能指标和详细的合约分析，轻松地监控你的智能合约。
+- [tintinweb/solidity-shell](https://github.com/tintinweb/solidity-shell) - 一个具有轻量级会话记录的交互式Solidity Shell。
+- [Laika](https://getlaika.app) - 向智能合约提出请求，而无需编写一行代码。
 
-#### Utility
+#### 效率工具
 
-- [Aniket-Engg/sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - CLI tool to list & store solidity smart contract methods attributes.
-- [Aniket-Engg/sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - Verify solidity smart contracts on Etherscan.
-- [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - Use the ABI of a smart contract to find out the function signatures.
-- [crytic/solc-select](https://github.com/crytic/solc-select) - CLI to quickly switch between compiler versions.
-- [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity smart contracts.
-- [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting your code.
-- [protofire/solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation.
-- [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - Truffle plugin to verify smart contracts on Etherscan from the Truffle command line.
-- [sambacha/prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn & conform to the Solidity spec.
-- [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool.
-- [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - Speed up your development with error stack traces.
-- [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - A scriptable semantic grep utility for Solidity.
-
+- [Aniket-Engg/sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - 列出并存储solidity智能合约方法属性的CLI工具。
+- [Aniket-Engg/sol-verifier](https://github.com/Aniket-Engg/sol-verifier) - 在Etherscan上验证solidity智能合约。
+- [cleanunicorn/abi2signature](https://github.com/cleanunicorn/abi2signature) - 使用智能合约的ABI来查找函数的签名。
+- [crytic/solc-select](https://github.com/crytic/solc-select) -CLI可以在编译器版本之间快速切换。
+- [duaraghav8/Ethlint](https://github.com/duaraghav8/Ethlint) - 识别和修复Solidity智能合约中的风格和安全问题的Linter工具。
+- [prettier-solidity/prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - 更漂亮的自动格式化代码的插件。
+- [protofire/solhint](https://github.com/protofire/solhint) - 为智能合约的验证提供安全、风格指南和最佳实践规则的Solidity linter工具。
+- [rkalis/truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - 可以从Truffle命令行验证Etherscan上的智能合约的Truffle插件。
+- [sambacha/prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - 经过优化的配置，以减少AST的流失并符合Solidity规范。
+- [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - 代码覆盖工具。
+- [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - 用错误堆栈追踪来加速你的开发。
+- [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - 用于Solidity的可脚本化语义搜索工具。
 #### Audit
 
 - [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
