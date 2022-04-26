@@ -272,10 +272,10 @@
 - [Slither](https://github.com/crytic/slither) - 支持许多常见错误类型的静态分析器，包括用于安全相关信息的可视化工具。
 - [MythX](https://mythx.io/) - 在整个开发周期中检测以太坊智能合约中的安全漏洞
 
-#### DevOps
+#### DevOps工具
 
-- [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
-- [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
+- [Embark](https://github.com/embark-framework/embark) - 允许您轻松开发和部署 DApp 的框架。
+- [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - 为 DApp 和 DAPI 提供以太坊智能合约分析和异常检测的服务。
 
 ## 语言
 
