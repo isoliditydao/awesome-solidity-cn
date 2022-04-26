@@ -333,7 +333,7 @@
 
 #### Visual Studio Code
 
-> 👉 有关完整列表，请参阅 [results for "Solidity" on Visual Studio Marketplace](https://marketplace.visualstudio.com/search?term=solidity&target=VSCode&category=All%20categories&sortBy=Relevance).
+> 👉 有关完整列表，请参阅 [Visual Studio Marketplace 上“Solidity”的结果](https://marketplace.visualstudio.com/search?term=solidity&target=VSCode&category=All%20categories&sortBy=Relevance).
 
 - [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - 用于生成和存储智能合约方法配置文件的Visual Code扩展。
 - [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code 语言支持扩展。
