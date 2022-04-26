@@ -177,7 +177,7 @@
 - [web3.career](https://web3.career) - web3 工作的求职平台
 - [crypto.jobs](https://crypto.jobs) - CryptoJobs 是排名第一的区块链工作求职网站。
 
-## Libraries
+## 库
 
 - [0age/AttributeRegistry](https://github.com/0age/AttributeRegistry) ERC-1616属性注册标准--接口、测试和实现。
 - [0age/HomeWork](https://github.com/0age/HomeWork) - 一个用于寻找、分享和重用合约的home地址的自主工具。
@@ -262,89 +262,81 @@
 - [sc-forks/solidity-coverage](https://github.com/sc-forks/solidity-coverage) - 代码覆盖工具。
 - [Tenderly/tenderly-cli](https://github.com/Tenderly/tenderly-cli) - 用错误堆栈追踪来加速你的开发。
 - [tintinweb/solgrep](https://github.com/tintinweb/solgrep) - 用于Solidity的可脚本化语义搜索工具。
-#### Audit
+#### 审计工具
 
-- [Echidna](https://github.com/crytic/echidna) - Define properties for your smart contract then use fuzzing to catch security bugs.
-- [Manticore](https://github.com/trailofbits/manticore) - Detects many common bug types, and can prove correctness properties with symbolic execution.
-- [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for smart contracts.
-- [ethereum/sourcify](https://github.com/ethereum/sourcify) - Re-compiler that can be used to verify that bytecode corresponds to certain source code.
-- [eth-sri/securify2](https://github.com/eth-sri/securify2) - Tool for analyzing smart contracts for vulnerabilities and insecure coding.
-- [Slither](https://github.com/crytic/slither) - Static analyzer with support for many common bug types, including visualization tools for security-relevant information.
-- [MythX](https://mythx.io/) - Detection for security vulnerabilities in Ethereum smart contracts throughout the development life cycle
+- [Echidna](https://github.com/crytic/echidna) - 为您的智能合约定义属性，然后使用模糊测试来捕获安全漏洞。
+- [Manticore](https://github.com/trailofbits/manticore) - 检测许多常见的错误类型，并可以通过符号执行来证明正确性。
+- [Mythril](https://github.com/ConsenSys/mythril) - 智能合约的安全分析工具。
+- [ethereum/sourcify](https://github.com/ethereum/sourcify) - 可用于验证字节码是否对应于某些源代码的重编译器。
+- [eth-sri/securify2](https://github.com/eth-sri/securify2) - 用于分析智能合约漏洞和不安全编码的工具。
+- [Slither](https://github.com/crytic/slither) - 支持许多常见错误类型的静态分析器，包括用于安全相关信息的可视化工具。
+- [MythX](https://mythx.io/) - 在整个开发周期中检测以太坊智能合约中的安全漏洞
 
 #### DevOps
 
 - [Embark](https://github.com/embark-framework/embark) - Framework that allows you to easily develop and deploy DApps.
 - [Moesif](https://www.moesif.com/docs/platform/ethereum-web3/) - Service that provides Ethereum smart contract analytics and anomaly detection for DApps and DAPIs.
 
-## Languages
+## 语言
 
 #### JavaScript
 
-- [deno-web3/solc](https://github.com/deno-web3/solc) - Solidity bindings for Deno.
-- [solc-js](https://github.com/ethereum/solc-js) - JavaScript bindings for the Solidity compiler.
-- [solidity-parser](https://github.com/federicobond/solidity-parser-antlr) - Solidity parser built in JavaScript.
-- [sulk](https://github.com/lukehedger/sulk) - Configurable contract compilation.
+- [deno-web3/solc](https://github.com/deno-web3/solc) - Deno 的 Solidity 实现
+- [solc-js](https://github.com/ethereum/solc-js) - Solidity 编译器的 JavaScript 实现。
+- [solidity-parser](https://github.com/federicobond/solidity-parser-antlr) - 内置在 JavaScript 中的 Solidity 解析器。
+- [sulk](https://github.com/lukehedger/sulk) - 可配置的合约编译。
 
 #### TypeScript
 
-- [Soltsice](https://github.com/Soltsice/Soltsice) - Generates strongly-typed TypeScript classes for contracts from Truffle artifacts with a single command.
-- [TypeChain](https://github.com/ethereum-ts/TypeChain) - TypeScript bindings for Ethereum smart contracts.
+- [Soltsice](https://github.com/Soltsice/Soltsice) - 使用单个命令从 Truffle 工件为合约生成强类型的 TypeScript 类。
+- [TypeChain](https://github.com/ethereum-ts/TypeChain) - 以太坊智能合约的 TypeScript 实现。
 
 #### Rust
 
-- [hyperledger-labs/solang](https://github.com/hyperledger-labs/solang) - A Solidity-to-WASM-and-BPF compiler written in Rust.
-- [rust-ethereum/ethabi](https://github.com/rust-ethereum/ethabi) -Encode and decode smart contract invocations.
+- [hyperledger-labs/solang](https://github.com/hyperledger-labs/solang) - 用 Rust 编写的 Solidity-to-WASM-and-BPF 编译器。
+- [rust-ethereum/ethabi](https://github.com/rust-ethereum/ethabi) - 编码和解码智能合约调用。
 
 #### OCaml
 
-- [ocaml-solidity](https://ocamlpro.github.io/ocaml-solidity/) - OCaml library providing a parser, a typechecker and miscellaneous utilities for manipulating contracts.
+- [ocaml-solidity](https://ocamlpro.github.io/ocaml-solidity/) - OCaml 库提供解析器、类型检查器和用于操作合约的多项实用程序。
 
-## Editor Plugins
+## 编辑器插件
 
 #### Atom
 
-- [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - Parses Solidity files to give you contextual autocomplete suggestions.
-- [Etheratom](https://atom.io/packages/etheratom) - Compile and deploy Solidity code from atom editor.
-- [language-ethereum](https://atom.io/packages/language-ethereum) - Adds syntax highlighting and snippets to Solidity and Serpent files in Atom.
-- [linter-solidity](https://atom.io/packages/linter-solidity) - Linter.
+- [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity) - 解析 Solidity 文件，为您提供代码自动提示建议。
+- [Etheratom](https://atom.io/packages/etheratom) - 从 atom 编辑器编译和部署 Solidity 代码。
+- [language-ethereum](https://atom.io/packages/language-ethereum) - 向 Atom 中的 Solidity 和 Serpent 文件添加语法高亮和片段。
+- [linter-solidity](https://atom.io/packages/linter-solidity) - Linter小工具.
 
 #### Eclipse
 
-- [uml2solidity](https://github.com/UrsZeidler/uml2solidity) - Model smart contracts with UML.
+- [uml2solidity](https://github.com/UrsZeidler/uml2solidity) - 使用 UML 对智能合约进行建模。
 
 #### Emacs
 
-- [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Solidity mode for Emacs.
-- [company-solidity](https://github.com/ssmolkin1/company-solidity) - Autocomplete with company-mode.
+- [emacs-solidity](https://github.com/ethereum/emacs-solidity) - Emacs 的 Solidity 模式。
+- [company-solidity](https://github.com/ssmolkin1/company-solidity) - 使用company模式自动完成。
 
 #### IntelliJ
 
-- [intellij-solidity](https://github.com/intellij-solidity/intellij-solidity) - Solidity plugin for IntelliJ.
+- [intellij-solidity](https://github.com/intellij-solidity/intellij-solidity) - IntelliJ 的 Solidity 插件。
 
 #### Sublime
 
-- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - Solidity syntax for SublimeText.
+- [SublimeEthereum](https://github.com/davidhq/SublimeEthereum) - SublimeText 的 Solidity 实现。
 
 #### Vim
 
-- [solidity.vim](https://github.com/dmdque/solidity.vim) - Vim compiler plugin.
-- [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file.
+- [solidity.vim](https://github.com/dmdque/solidity.vim) - Vim 编译器插件。
+- [vim-solidity](https://github.com/tomlion/vim-solidity) - Vim 语法文件。
 
 #### Visual Studio Code
 
-> 👉 For a comprehensive list, see [results for "Solidity" on Visual Studio Marketplace](https://marketplace.visualstudio.com/search?term=solidity&target=VSCode&category=All%20categories&sortBy=Relevance).
+> 👉 有关完整列表，请参阅 [results for "Solidity" on Visual Studio Marketplace](https://marketplace.visualstudio.com/search?term=solidity&target=VSCode&category=All%20categories&sortBy=Relevance).
 
-- [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - Visual Code Extension to generate & store smart contract methods profile.
-- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code language support extension.
-- [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - Visual Security audit, Security centric syntax and semantic highlighting, detailed class outline, UML diagram generator, and many more features.
-- [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - Flatten Solidity Contracts using truffle-flattener
-- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - A meta-extension bundling marketplace plugins for secure Ethereum smart contract development.
-
----
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Ben Kremer](https://github.com/bkrem) has waived all copyright and related or neighboring rights to this work.
+- [sol-profiler-vscode](https://github.com/Aniket-Engg/sol-profiler-vscode) - 用于生成和存储智能合约方法配置文件的Visual Code扩展。
+- [vscode-solidity](https://github.com/juanfranblanco/vscode-solidity) - Visual Studio Code 语言支持扩展。
+- [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) - 可视化安全审计、以安全为中心的语法和语义突出显示、详细的类大纲、UML 图生成器以及更多功能。
+- [Solidity Contract Flattener](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-flattener) - 使用 truffle-flattener 扁平化 Solidity 合约。
+- [Ethereum Security Bundle](https://marketplace.visualstudio.com/items?itemName=tintinweb.ethereum-security-bundle) - 用于安全地进行以太坊智能合约开发的插件。
